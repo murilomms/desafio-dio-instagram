@@ -1,3 +1,3 @@
-# Desafio-Instagram (DIO)
+# Desafio-DIO-Instagram
 
-Desafio com objetivo de criar a interface do Instagram utilizando Flexbox CSS.
+Desafio com objetivo de criar a página inicial do Instagram utilizando Flexbox CSS.
